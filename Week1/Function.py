@@ -17,3 +17,4 @@ def diskon(harga,persen):
 
 total = diskon(100000, 10)
 print(total)
+#Arul
